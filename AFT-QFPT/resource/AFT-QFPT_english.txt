@@ -1,0 +1,10 @@
+lang
+{
+	Language "English"
+	Tokens
+	{
+		AFT-QFPT_Chapter1_Title	"The search"
+		AFT-QFPT_Chapter2_Title	"Imprisoned"
+		AFT-QFPT_Chapter3_Title	"Pop-tart Down"
+	}
+}
