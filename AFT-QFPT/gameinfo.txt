@@ -1,6 +1,6 @@
 "GameInfo"
 {
-	game 		"AFT: Quest for the Pop-tart"
+	game 		"Adventure Of The Fucktards"
 	title 		"Adventure of the fuck tards:"
 	title2		"Quest for the pop-tart."
 	supportsvr	1
